@@ -1,0 +1,15 @@
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\bin\Debug\net8.0\Övning3.exe
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\bin\Debug\net8.0\Övning3.deps.json
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\bin\Debug\net8.0\Övning3.runtimeconfig.json
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\bin\Debug\net8.0\Övning3.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\bin\Debug\net8.0\Övning3.pdb
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\Övning3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\Övning3.AssemblyInfoInputs.cache
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\Övning3.AssemblyInfo.cs
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\Övning3.csproj.CoreCompileInputs.cache
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\Övning3.sourcelink.json
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\Övning3.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\refint\Övning3.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\Övning3.pdb
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\Övning3.genruntimeconfig.cache
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning3\Övning3\obj\Debug\net8.0\ref\Övning3.dll
